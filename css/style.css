@@ -106,11 +106,11 @@ li.btns__item:nth-child(odd) {
 }
 
 [data-current="heart"] {
-	background-color: #e19800 !important;
+	background-color: transparent  !important;
 }
 
 [data-current="codrops"] {
-	background-color: #00a00b !important;
+	background-color:  #0d4781 !important;
 }
 
 [data-current="smile"] {
