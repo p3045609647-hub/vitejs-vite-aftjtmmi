@@ -1,0 +1,18 @@
+{
+  "name": "video-projection-codrops",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.172.0",
+    "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8"
+  }
+}
